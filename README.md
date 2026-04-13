@@ -1,2 +1,2 @@
-# open-innovation
+# Open Innovation
 Open Innovation Course Content
